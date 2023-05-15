@@ -8,7 +8,7 @@
 
 
 # 💭 Descrição
-A ideia era criar uma pagina de viagens, com alguns destinos populares, hoteis, etc.. Foi criado com a biblioteca ReactJS, onde explorei conceitos como styled components, hooks, e javascript para renderizar os cards .    <br>
+A minha proposta foi desenvolver uma página de viagens utilizando a biblioteca ReactJS, onde pude explorar conceitos avançados, como styled components, hooks e renderização dinâmica com JavaScript, para criar uma experiência única. Na página, você encontrará uma seleção dos destinos mais populares, com informações detalhadas sobre hotéis, pontos turísticos e muito mais. Tudo isso com um design moderno e responsivo, proporcionando uma navegação fluida e agradável aos usuários.<br>
 - Você pode acessar o projeto por meio deste link: <a>https://atlantic-travelling.vercel.app/<a>
 
 
