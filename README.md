@@ -15,7 +15,7 @@ A ideia era criar uma pagina de viagens, com alguns destinos populares, hoteis, 
 ## 📲 Layout
 <hr>
 
-![layout](/imgs/layout.png)
+![layout](/public/layout.png)
 
 <br>
 <br>
