@@ -1,4 +1,4 @@
-# Portfolio pessoal - Full-Stack Dev
+# Landing page - AtlanticTravelling
 
 ## 📜 Índice
 - <a href="#-descrição">Descrição</a>
